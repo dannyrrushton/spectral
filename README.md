@@ -1,5 +1,7 @@
 # spectral
 
+![My Image](prism_optimal.png)
+
 A GPU spectral path tracer built on NVIDIA OptiX 9.1 and CUDA 13. It renders a modified Cornell Box
 from measured physical data, and simulates light by wavelength rather than as red, green and blue.
 That lets it show things an RGB renderer can't, such as glass splitting white light into a rainbow.
